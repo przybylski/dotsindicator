@@ -16,6 +16,8 @@ buildscript {
 }
 
 allprojects {
+  group = 'com.tbuonomo'
+  version = '0.1'
   repositories {
     google()
     jcenter()
