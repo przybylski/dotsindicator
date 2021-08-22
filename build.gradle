@@ -16,7 +16,7 @@ buildscript {
 }
 
 allprojects {
-  group = 'com.tbuonomo'
+  group = 'pl.przybylski'
   version = '0.1'
   repositories {
     google()
