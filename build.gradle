@@ -16,8 +16,6 @@ buildscript {
 }
 
 allprojects {
-  group = 'pl.przybylski'
-  version = '0.1'
   repositories {
     google()
     jcenter()
